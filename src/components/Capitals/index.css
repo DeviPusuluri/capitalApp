@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bgContainer {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.capital {
+  color: #000000;
+  font-size: 20px;
+}
+.paragraph {
+  margin-left: 10px;
+  color: #323f4b;
+}
+.answer {
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: bold;
+}
+.heading {
+  color: black;
+  font-size: 30px;
+}
+.cardContainer {
+  background-color: #f8fafc;
+  height: 50%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
